@@ -13,3 +13,6 @@ Data: 16/01/2022
 Contato: contato [at] ygorml.org / 
 Linkedin: linkedin.com/in/ygormoreiralima/
 ```
+
+## Desempenho do Algoritmo - 450 gerações
+<img src="https://github.com/ygordev/Algoritmos-Geneticos/raw/main/Figure_1.png"></img>
