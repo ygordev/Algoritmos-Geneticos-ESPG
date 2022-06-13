@@ -17,7 +17,7 @@ Parte constituinte do TCC para o curso de Pós-graduação em
 Engenharia de Software da Escola Superior de Planejamento e Gestão (ESPG)
 ```
 
-[Código aqui](https://github.com/ygordev/Algoritmos-Geneticos/blob/main/ML-AlgGenv0.1.py)
+[Código aqui](https://github.com/ygordev/Algoritmos-Geneticos/blob/main/ML-AlgGenv0.2.py)
 
 ## Desempenho do Algoritmo - 450 gerações
 <img src="https://github.com/ygordev/Algoritmos-Geneticos/raw/main/Figure_1.png"></img>
